@@ -1,0 +1,30 @@
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zad2_KirillMalugin\bin\Debug\zad2_KirillMalugin.exe.config
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zad2_KirillMalugin\bin\Debug\zad2_KirillMalugin.exe
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zad2_KirillMalugin\bin\Debug\zad2_KirillMalugin.pdb
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zad2_KirillMalugin\obj\Debug\zad2_KirillMalugin.csproj.AssemblyReference.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zad2_KirillMalugin\obj\Debug\zad2_KirillMalugin.Form1.resources
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zad2_KirillMalugin\obj\Debug\zad2_KirillMalugin.Properties.Resources.resources
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zad2_KirillMalugin\obj\Debug\zad2_KirillMalugin.csproj.GenerateResource.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zad2_KirillMalugin\obj\Debug\zad2_KirillMalugin.csproj.CoreCompileInputs.cache
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zad2_KirillMalugin\obj\Debug\zad2_KirillMalugin.exe
+C:\Users\305-3\Desktop\Kirill Malugin\Учебная практика\zad2_KirillMalugin\obj\Debug\zad2_KirillMalugin.pdb
+D:\zad2_KirillMalugin\bin\Debug\zad2_KirillMalugin.exe.config
+D:\zad2_KirillMalugin\bin\Debug\zad2_KirillMalugin.exe
+D:\zad2_KirillMalugin\bin\Debug\zad2_KirillMalugin.pdb
+D:\zad2_KirillMalugin\obj\Debug\zad2_KirillMalugin.csproj.AssemblyReference.cache
+D:\zad2_KirillMalugin\obj\Debug\zad2_KirillMalugin.Form1.resources
+D:\zad2_KirillMalugin\obj\Debug\zad2_KirillMalugin.Properties.Resources.resources
+D:\zad2_KirillMalugin\obj\Debug\zad2_KirillMalugin.csproj.GenerateResource.cache
+D:\zad2_KirillMalugin\obj\Debug\zad2_KirillMalugin.csproj.CoreCompileInputs.cache
+D:\zad2_KirillMalugin\obj\Debug\zad2_KirillMalugin.exe
+D:\zad2_KirillMalugin\obj\Debug\zad2_KirillMalugin.pdb
+D:\zd2_SepselevTim\obj\Debug\zad2_SepselevTim.csproj.AssemblyReference.cache
+D:\zd2_SepselevTim\obj\Debug\zad2_SepselevTim.Form1.resources
+D:\zd2_SepselevTim\obj\Debug\zad2_SepselevTim.csproj.GenerateResource.cache
+D:\zd2_SepselevTim\obj\Debug\zad2_SepselevTim.csproj.CoreCompileInputs.cache
+D:\zd2_SepselevTim\bin\Debug\zad2_SepselevTim.exe.config
+D:\zd2_SepselevTim\bin\Debug\zad2_SepselevTim.exe
+D:\zd2_SepselevTim\bin\Debug\zad2_SepselevTim.pdb
+D:\zd2_SepselevTim\obj\Debug\zad2_SepselevTim.Properties.Resources.resources
+D:\zd2_SepselevTim\obj\Debug\zad2_SepselevTim.exe
+D:\zd2_SepselevTim\obj\Debug\zad2_SepselevTim.pdb
